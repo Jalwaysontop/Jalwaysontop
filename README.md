@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Juicy
 **A passionate CSE Student || Delhi Technological University || India**
  
-- 🔭 **I’m currently working on:** robotics projects using **ROS** and AI-powered systems  
+- 🔭 **I’m currently working on:** AI-powered systems 
 - 🌱 **I’m currently learning:** advanced **ML** models, efficient **DSA**, and building full-stack **apps**  
 - 👯 **I’m looking to collaborate on:** open-source robotics or ML-app integrations 
 - ⚡ **Fun fact:** I believe in “my brain + code = magic” ✨
