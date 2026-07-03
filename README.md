@@ -1,4 +1,4 @@
-### Hey, I'm [Your Name] 👋
+### Hey, I'm Juicy! 👋
 
 🎓 B.Tech CSE, Delhi Technological University
 🤖 Aspiring AI Engineer | Curious about ML, robotics, and building things that work
@@ -56,9 +56,9 @@
 
 **Also familiar with:** RAG, NLP, LangGraph, FAISS & Vector Search, Mediapipe, OCR, REST APIs, Playwright, DSA (250+ problems solved), OOP, Operating Systems, DBMS, Computer Networks, Computer Organisation & Architecture
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jalwaysontop&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Jalwaysontop&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jalwaysontop&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=jalwaysontop&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=jalwaysontop&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jalwaysontop&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juicy-29415b325/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Juicy____1) 
