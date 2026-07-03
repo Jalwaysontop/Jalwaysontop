@@ -55,13 +55,17 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 **Also familiar with:** RAG, NLP, LangGraph, FAISS & Vector Search, Mediapipe, OCR, REST APIs, Playwright, DSA (250+ problems solved), OOP, Operating Systems, DBMS, Computer Networks, Computer Organisation & Architecture
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jalwaysontop&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jalwaysontop&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jalwaysontop&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+#### 📊 GitHub Stats
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juicy-29415b325/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Juicy____1) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jalwaysontop&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalwaysontop&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jalwaysontop&theme=tokyonight&hide_border=true)
+
+#### 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juicy-29415b325/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jalwaysontop)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juicy3550@gmail.com)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
