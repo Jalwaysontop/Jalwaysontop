@@ -1,7 +1,7 @@
 ### Hey, I'm Juicy! 👋
 
 🎓 B.Tech CSE, Delhi Technological University
-🤖 Aspiring AI Engineer | Curious about ML, robotics, and building things that work
+🤖 Aspiring Software Engineer | Curious about ML, robotics, and solving problems of billions of people through tech
 
 - 🔭 Currently working on: AI/ML systems, including a perception pipeline for an Autonomous Underwater Vehicle
 - 🌱 Currently learning: advanced ML models, efficient DSA, and full-stack development
