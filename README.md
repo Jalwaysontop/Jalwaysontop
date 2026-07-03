@@ -55,11 +55,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 **Also familiar with:** RAG, NLP, LangGraph, FAISS & Vector Search, Mediapipe, OCR, REST APIs, Playwright, DSA (250+ problems solved), OOP, Operating Systems, DBMS, Computer Networks, Computer Organisation & Architecture
-#### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jalwaysontop&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalwaysontop&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jalwaysontop&theme=tokyonight&hide_border=true)
 
 #### 🌐 Socials
 
