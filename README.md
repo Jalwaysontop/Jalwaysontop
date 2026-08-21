@@ -1,5 +1,5 @@
 ### Hey, I'm Juicy! 👋
-
+🏢 Incoming **Microsoft** Software Engineering Intern 2027
 🎓 B.Tech CSE, Delhi Technological University
 🤖 Aspiring Software Engineer | Curious about ML, robotics, and solving problems of billions of people through tech
 
